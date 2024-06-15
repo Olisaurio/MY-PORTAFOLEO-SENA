@@ -196,10 +196,14 @@ section > aside > img{
 
 
 .main > .PROJECT{
-    width: 40%;
+    width: 45%;
     border-radius: 1rem;
     background-color: #000d35;
     color: aliceblue;
+}
+
+.main > .PROJECT > a{
+    color: blue;
 }
 
 .main > .PROJECT > h3, p{
