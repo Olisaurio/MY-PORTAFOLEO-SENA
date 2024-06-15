@@ -191,13 +191,15 @@ section > aside > img{
     justify-content: center;
     align-items: center;
     gap: 5rem;
+    flex-wrap: wrap;
 }
 
 
 .main > .PROJECT{
     width: 40%;
     border-radius: 1rem;
-    border: 2px solid ;
+    background-color: #000d35;
+    color: aliceblue;
 }
 
 .main > .PROJECT > h3, p{
@@ -207,6 +209,7 @@ section > aside > img{
 .PROJECT > img{
     width: 100%;
     height: 100%;
+    border-radius: 1rem;
  }
 
 footer{
