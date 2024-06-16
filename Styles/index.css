@@ -223,6 +223,7 @@ section > aside > img{
     justify-content: center;
     gap: 3rem;
     width: 100%;
+    margin-bottom: 2rem;
  }
 
  .image-routines{
