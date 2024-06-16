@@ -236,6 +236,7 @@ section > aside > img{
 .image-routines > div{
     max-width: 45%;
     border: solid 2px #000d35;
+    border-radius: 2rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
