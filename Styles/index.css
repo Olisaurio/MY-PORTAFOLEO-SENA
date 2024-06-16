@@ -152,8 +152,6 @@ section > aside > img{
     margin: 2rem;
 }
 
-
-
 .container > div{
     width: 80%;
     height: 2rem;
@@ -247,7 +245,7 @@ section > aside > img{
  .image-routines > div > img{
     max-width: 100%;
     border-radius: 2rem;
-    margin: 1rem;
+    margin-top: 1rem;
  }
 
 
