@@ -267,6 +267,14 @@ footer{
     width: 100%;
 }
 
+footer > .footer-icons{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+footer > .footer-icons > a{
+    color: white;
+}
 
 @media  (max-width: 500px){
 
