@@ -276,6 +276,10 @@ footer > .footer-icons > a{
     color: white;
 }
 
+h2,h3{
+    text-transform: uppercase;
+}
+
 @media  (max-width: 500px){
 
 
