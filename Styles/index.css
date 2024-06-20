@@ -251,6 +251,21 @@ section > aside > img{
  }
 
 
+ .cont{
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+    display: flex;
+    width: 80%;
+    flex-direction: column;
+    gap: 2rem;
+    align-items: center;
+ }
+
+
+ .cont > p{
+    display: flex;
+    width: 75%;
+ }
 
 span{
     color: aqua;
